@@ -1,0 +1,10 @@
+table name: paste
+
+schema:
+
+title
+author
+content
+lang
+private (boolean)
+created_at (timestamp)
